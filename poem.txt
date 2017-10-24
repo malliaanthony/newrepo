@@ -1,4 +1,4 @@
-the rainbow
+new Repo and the repobranch number1
 
 experiment with this new ...
 
@@ -12,4 +12,6 @@ new stuff 2.0 stuff and shitt
 
 Important
 
-by default the creation of any repository is called master branch (roots)
+by default the creation of any repository is called master branch (root)
+
+Apart from the actual root a branch is now created
