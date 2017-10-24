@@ -9,3 +9,7 @@ Branching is the new video
 new stuff and shit
 
 new stuff 2.0 stuff and shitt
+
+Important
+
+by default the creation of any repository is called master branch (roots)
